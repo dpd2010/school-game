@@ -1,5 +1,5 @@
 {
-    "name": "platformer-template",
+    "name": "game prototype",
     "description": "",
     "dependencies": {
         "device": "*",
