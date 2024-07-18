@@ -14,5 +14,13 @@
         "namespace": "myImages.",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "playerImage"
+    },
+    "myImages.image3": {
+        "id": "myImages.image3",
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAQAAAAAAEBEBAAAAAAARAQAAAAAAABEBAAAAAAAAEQEAAAAAAAARAQAAAAAAABARAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "dataEncoding": "base64",
+        "namespace": "myImages.",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "main_character"
     }
 }
